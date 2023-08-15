@@ -6,7 +6,7 @@ string animalPhysicalDescription = "";
 string animalPersonalityDescription = "";
 string animalNickname = "";
 
-// variables that support data entry
+//Variables that support data entry
 int maxPets = 8;
 string? readResult;
 string menuSelection = "";
