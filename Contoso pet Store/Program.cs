@@ -55,7 +55,7 @@ for (int i = 0; i < maxPets; i++)
                 animalSpecies = "cat";
                 animalID = "c4";
                 animalAge = "?";
-                animalPhysicalDescription = "";
+                animalPhysicalDescription = "tbd";
                 animalPersonalityDescription = "";
                 animalNickname = "";
                 break;
